@@ -40,7 +40,7 @@
 ```bash
  node server.js
  ```
- ## Run the React Frontend
+ ## Run the React Frontend (On another Terminal)
 ```bash
  cd client
  ```
